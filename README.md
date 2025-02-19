@@ -12,3 +12,5 @@ FOLLOWERS
 
 test
 
+Squash
+SC
